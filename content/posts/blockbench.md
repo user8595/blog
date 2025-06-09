@@ -3,7 +3,7 @@ date: 2025-04-11T13:57:40Z
 draft: false
 title: Using Blockbench
 tags: ["3D Modelling"]
-summary: " My experience with learing 3D Modelling for the first time with Blockbench."
+summary: " My experience with learning 3D Modelling for the first time with Blockbench."
 ---
 
 Since i dont have the amount of free time to learn, or possibly have the capabilities to just learn blender itself, i decided to give [Blockbench](https://web.blockbench.net/) a try.
