@@ -18,7 +18,7 @@ params:
   keywords: [Blog, Tech, Design, Writing]
   author: user8595
   DateFormat: "Jan 2, 2006"
-  defaultTheme: auto
+  defaultTheme: dark
   disableThemeToggle: false
 
   ShowReadingTime: true
