@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Random on user859</title>
-    <link>https://user8595.github.io/tags/random/</link>
+    <link>https://user8595.github.io/blog/tags/random/</link>
     <description>Recent content in Random on user859</description>
     <generator>Hugo -- 0.147.5</generator>
     <language>en-us</language>
     <copyright>user8595</copyright>
     <lastBuildDate>Wed, 02 Apr 2025 15:23:03 +0000</lastBuildDate>
-    <atom:link href="https://user8595.github.io/tags/random/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://user8595.github.io/blog/tags/random/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post ideas?</title>
-      <link>https://user8595.github.io/posts/post-ideas/</link>
+      <link>https://user8595.github.io/blog/posts/post-ideas/</link>
       <pubDate>Wed, 02 Apr 2025 15:23:03 +0000</pubDate>
-      <guid>https://user8595.github.io/posts/post-ideas/</guid>
+      <guid>https://user8595.github.io/blog/posts/post-ideas/</guid>
       <description>Thoughts about post ideas.</description>
     </item>
     <item>
       <title>Being new at Git</title>
-      <link>https://user8595.github.io/posts/being-new-at-git/</link>
+      <link>https://user8595.github.io/blog/posts/being-new-at-git/</link>
       <pubDate>Sun, 23 Mar 2025 09:54:46 +0000</pubDate>
-      <guid>https://user8595.github.io/posts/being-new-at-git/</guid>
+      <guid>https://user8595.github.io/blog/posts/being-new-at-git/</guid>
       <description>A post i made when i was first learning Git.</description>
     </item>
     <item>
       <title>did it work??</title>
-      <link>https://user8595.github.io/posts/did-it-work/</link>
+      <link>https://user8595.github.io/blog/posts/did-it-work/</link>
       <pubDate>Sun, 23 Mar 2025 02:11:20 +0000</pubDate>
-      <guid>https://user8595.github.io/posts/did-it-work/</guid>
+      <guid>https://user8595.github.io/blog/posts/did-it-work/</guid>
       <description>Generic test post.</description>
     </item>
   </channel>

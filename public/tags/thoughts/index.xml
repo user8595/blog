@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Thoughts on user859</title>
-    <link>https://user8595.github.io/tags/thoughts/</link>
+    <link>https://user8595.github.io/blog/tags/thoughts/</link>
     <description>Recent content in Thoughts on user859</description>
     <generator>Hugo -- 0.147.5</generator>
     <language>en-us</language>
     <copyright>user8595</copyright>
     <lastBuildDate>Sat, 24 May 2025 10:26:30 +0000</lastBuildDate>
-    <atom:link href="https://user8595.github.io/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://user8595.github.io/blog/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A non-writer&#39;s pain</title>
-      <link>https://user8595.github.io/posts/non-writers-pain/</link>
+      <link>https://user8595.github.io/blog/posts/non-writers-pain/</link>
       <pubDate>Sat, 24 May 2025 10:26:30 +0000</pubDate>
-      <guid>https://user8595.github.io/posts/non-writers-pain/</guid>
+      <guid>https://user8595.github.io/blog/posts/non-writers-pain/</guid>
       <description>My thoughts of being a barely-blog writer.</description>
     </item>
     <item>
       <title>Random thought i had at 3AM</title>
-      <link>https://user8595.github.io/posts/random-thoughts/</link>
+      <link>https://user8595.github.io/blog/posts/random-thoughts/</link>
       <pubDate>Tue, 29 Apr 2025 20:22:57 +0000</pubDate>
-      <guid>https://user8595.github.io/posts/random-thoughts/</guid>
+      <guid>https://user8595.github.io/blog/posts/random-thoughts/</guid>
       <description>Just a random vent i had after waking up in the middle of the night.</description>
     </item>
   </channel>

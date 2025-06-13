@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Giscus on user859</title>
-    <link>https://user8595.github.io/tags/giscus/</link>
+    <link>https://user8595.github.io/blog/tags/giscus/</link>
     <description>Recent content in Giscus on user859</description>
     <generator>Hugo -- 0.147.5</generator>
     <language>en-us</language>
     <copyright>user8595</copyright>
     <lastBuildDate>Fri, 02 May 2025 00:38:31 +0000</lastBuildDate>
-    <atom:link href="https://user8595.github.io/tags/giscus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://user8595.github.io/blog/tags/giscus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Giscus for comments</title>
-      <link>https://user8595.github.io/posts/using-giscus-for-comments/</link>
+      <link>https://user8595.github.io/blog/posts/using-giscus-for-comments/</link>
       <pubDate>Fri, 02 May 2025 00:38:31 +0000</pubDate>
-      <guid>https://user8595.github.io/posts/using-giscus-for-comments/</guid>
+      <guid>https://user8595.github.io/blog/posts/using-giscus-for-comments/</guid>
       <description>Using others needs me to pay for a subscription, and most needs to be self-hosted, so this is the only option now.</description>
     </item>
   </channel>
