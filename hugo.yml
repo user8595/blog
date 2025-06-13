@@ -7,7 +7,7 @@ copyright: "© [user8595](https://github.com/user8595)"
 # change image cache folder location
 caches:
   images:
-    dir: :cacheDir/blog/images
+    dir: :cacheDir/images
 
 pagination:
   pagerSize: 5
