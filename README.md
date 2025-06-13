@@ -1,3 +1,5 @@
+NOTE: Undergoing maintenence (URL change), hence why the website looks broken.
+
 A basic blog website using [hugo](https://github.com/gohugoio/hugo) as framework, and [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) as the website's theme.
 
 ### Prerequisites
