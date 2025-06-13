@@ -49,8 +49,7 @@ jobs:
           path: |
             ${{ runner.temp }}/hugo_cache
           key: hugo-${{ github.run_id }}
-          restore-keys:
-            hugo-
+          restore-keys: hugo-
       - name: Configure Git
         run: git config core.quotepath false
       - name: Build with Hugo
@@ -70,7 +69,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./blog/public
+          path: ./public
 
   deploy:
     environment:
