@@ -4,7 +4,7 @@ draft: false
 title: mdernize - Minimalist Cursor
 tags: ["Customization"]
 cover:
-  image: /mdernize.png
+  image: images/mdernize.png
   caption: "A minimalist cursor with a focus of usability."
 summary: "My latest cursor theme, explained in this article."
 ---
@@ -29,7 +29,7 @@ And the worst part is thst i forgot how to make a cursor file without losing it'
 
 But still, the old version still has some flaws though, such as the handwriting cursor's tip being quite unrecognizeable since i made it that small:
 
-![smol](/smol.png)
+![smol](/blog/images/smol.png)
 
 Clearly i didn't realize that while i made the cursor, but at least this somewhat didn't happen to this cursor.
 

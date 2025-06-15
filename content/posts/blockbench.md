@@ -3,7 +3,7 @@ date: 2025-04-11T13:57:40Z
 draft: false
 title: Using Blockbench
 tags: ["3D Modelling"]
-summary: " My experience with learning 3D Modelling for the first time with Blockbench."
+summary: "My experience with learning 3D Modelling for the first time with Blockbench."
 ---
 
 Since i dont have the amount of free time to learn, or possibly have the capabilities to just learn blender itself, i decided to give [Blockbench](https://web.blockbench.net/) a try.
@@ -12,7 +12,7 @@ Honestly i only do these kind of stuff just solely for "fun" anyway, and i might
 
 Anyways i only made just 1 model after all, and its not that much compared to what you could do with this tool.
 
-![a book](/book.png)
+![a book](/blog/images/book.png)
 
 _does this look like a book?_
 

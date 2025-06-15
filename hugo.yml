@@ -5,9 +5,9 @@ theme: PaperMod
 copyright: "© [user8595](https://github.com/user8595)"
 
 # change image cache folder location
-caches:
-  images:
-    dir: :cacheDir/images
+# caches:
+#   images:
+#     dir: :cacheDir/blog/images
 
 pagination:
   pagerSize: 5
@@ -15,7 +15,7 @@ pagination:
 params:
   title: user859
   description: "A digital space for my thoughts or maybe as a journal."
-  keywords: [Blog, Tech, Design, Writing]
+  keywords: [Blog, Design, Writing]
   author: user8595
   DateFormat: "Jan 2, 2006"
   defaultTheme: dark

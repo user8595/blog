@@ -7,7 +7,7 @@ summary: "How to save several bytes of storage from large games."
 ShowToc: true
 TocOpen: true
 cover:
-  image: "/disc.png"
+  image: images/disc.png
 ---
 
 # Intro
@@ -108,7 +108,7 @@ The process might take a moment to finish, depending on the size of the game.
 
 ## Result
 
-![Convert result](/result.png)
+![Convert result](/blog/images/result.png)
 
 The result of the converted file should be smaller than the original .iso file, usually a ~1-2GB difference, depending on the game itself.
 

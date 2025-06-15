@@ -4,7 +4,7 @@ draft: false
 title: Learning Blender
 tags: ["3D Modelling"]
 cover:
-  image: /laptop.png
+  image: images/laptop.png
   caption: "A simple laptop model in Blender, that took me 2 days to finish since i'm new to 3D Modelling as a whole. "
 summary: "A post to show my first blender model."
 ---
