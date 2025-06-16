@@ -13,6 +13,7 @@ pagination:
   pagerSize: 5
 
 params:
+  env: production
   title: user859
   description: "A digital space for my thoughts or maybe as a journal."
   keywords: [Blog, Design, Writing]
