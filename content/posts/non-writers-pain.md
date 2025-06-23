@@ -16,4 +16,4 @@ Ironically, i'm stating that i wont write my own thoughts in this blog at the fi
 
 On another note, it's been weeks since i've learn't 3D modelling via [Blender](https://www.blender.org), and because of this, my vision of just looking at "simple" 3D animations has changed drastically. How could such mortal soul is able to create those keyframes under a week/month?? or maybe they simulated those using physics simulations i think.
 
-Maybe that's my insight about this blog's future, even though it's only several weeks since the last post was made. Oh and also, this seems to be just another repost of another post [i made earlier.](https://user8595.github.io/posts/post-ideas/)
+Maybe that's my insight about this blog's future, even though it's only several weeks since the last post was made. Oh and also, this seems to be just another repost of another post [i made earlier.](https://user8595.github.io/blog/posts/post-ideas/)
