@@ -3,10 +3,10 @@ date: 2025-04-18T14:07:10Z
 draft: false
 title: Design Projects
 tags: ["Design", "3D Modelling"]
-weight: 5
 cover:
   image: images/design.png
 summary: "A list of my design projects, both 2D and 3D designs."
+weight: 5
 ---
 
 Here i'll post my design projects i made at my spare time if i could.
@@ -14,6 +14,8 @@ Here i'll post my design projects i made at my spare time if i could.
 This could count as a portfolio, as usually they also show projects by the person who made them.
 
 I'll probably update this if i made a new design project and i feel to post it here.
+
+(Update 22-7-2025: This page won't be updated as often anymore. Consider checking my _questionable_ [Pinterest account](https://pinterest.com/user8595_/). Maybe this might change in the future.)
 
 ## 2D Designs
 

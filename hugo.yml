@@ -87,3 +87,7 @@ menu:
     - name: About
       url: about/
       weight: 10
+    - name: Main Page
+      url: https://user8595.github.io
+      weight: 12
+

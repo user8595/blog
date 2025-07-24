@@ -7,20 +7,27 @@
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <copyright>user8595</copyright>
-    <lastBuildDate>Sun, 25 May 2025 03:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 04:50:36 +0000</lastBuildDate>
     <atom:link href="https://user8595.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts</title>
+      <link>https://user8595.github.io/blog/tags/thoughts/</link>
+      <pubDate>Thu, 24 Jul 2025 04:50:36 +0000</pubDate>
+      <guid>https://user8595.github.io/blog/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Random</title>
+      <link>https://user8595.github.io/blog/tags/random/</link>
+      <pubDate>Tue, 22 Jul 2025 09:27:36 +0000</pubDate>
+      <guid>https://user8595.github.io/blog/tags/random/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Emulation</title>
       <link>https://user8595.github.io/blog/tags/emulation/</link>
       <pubDate>Sun, 25 May 2025 03:09:08 +0000</pubDate>
       <guid>https://user8595.github.io/blog/tags/emulation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Thoughts</title>
-      <link>https://user8595.github.io/blog/tags/thoughts/</link>
-      <pubDate>Sat, 24 May 2025 10:26:30 +0000</pubDate>
-      <guid>https://user8595.github.io/blog/tags/thoughts/</guid>
       <description></description>
     </item>
     <item>
@@ -49,13 +56,6 @@
       <link>https://user8595.github.io/blog/tags/design/</link>
       <pubDate>Fri, 18 Apr 2025 14:07:10 +0000</pubDate>
       <guid>https://user8595.github.io/blog/tags/design/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Random</title>
-      <link>https://user8595.github.io/blog/tags/random/</link>
-      <pubDate>Wed, 02 Apr 2025 15:23:03 +0000</pubDate>
-      <guid>https://user8595.github.io/blog/tags/random/</guid>
       <description></description>
     </item>
     <item>

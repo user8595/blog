@@ -39,7 +39,7 @@ hugo server
 
 The website will be hosted at `http://localhost:1313/`.
 
-**NOTE**: To build website before deploying, use
+**NOTE**: To build website before deploying to the server, use
 
 ```bash
 hugo
