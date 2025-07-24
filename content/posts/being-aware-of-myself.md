@@ -14,6 +14,8 @@ Ever since i were a young child, i always asked myself:
 >
 > _Why am i chosen to experience what i have now?_
 >
+> _Why in the eyes of my body?_
+>
 > _Why in this specific timeline?_
 >
 > _Are there any specific reasons chosen by God himself why i'm in this body?_
