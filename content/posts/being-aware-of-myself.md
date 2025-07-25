@@ -20,6 +20,6 @@ Ever since i were a young child, i always asked myself:
 >
 > _Are there any specific reasons chosen by God himself why i'm in this body?_
 
-Maybe i'm just crazy while making this, as others (like you) _probably_ relate the same about this either. But anyways, i'ts probably better to just "follow the river" instead, as in following the path you "pursue", something like that i think.
+Maybe i'm just crazy while making this, as others (like you) _probably_ relate the same about this either. But anyways, it's probably better to just "follow the river" instead, as in following the path you "pursue", something like that i think.
 
 And obviously, it's better to just try to be youself and not overthink much about these stuff. You'll eventually experience them anyway i think (in which _hopefully_ it's something good in the future).
