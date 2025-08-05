@@ -23,3 +23,5 @@ Ever since i were a young child, i always asked myself:
 Maybe i'm just crazy while making this, as others (like you) _probably_ relate the same about this either. But anyways, it's probably better to just "follow the river" instead, as in following the path you "pursue", something like that i think.
 
 And obviously, it's better to just try to be youself and not overthink much about these stuff. You'll eventually experience them anyway i think (in which _hopefully_ it's something good in the future).
+
+> (Edit 5/8/2025: This article sounds like someone who tries to look "edgy", but i sometimes still ask myself about this kind of stuff anyways. At least i have something to show my 3D model i made in Blender before.)
