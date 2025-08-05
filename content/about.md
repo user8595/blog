@@ -23,7 +23,7 @@ Hello there, i'm just an average person making random stuff if i have the time. 
   - Adobe Illustrator
   - Adobe Photoshop
   - Paint.NET
-  - For the list of design projects i made, [check this link.](https://user8595.github.io/posts/design-projects/)
+  - For the list of design projects i made, [check this link.](https://user8595.github.io/blog/posts/design-projects/)
 
 - Slightly experienced in HTML & CSS, still learning JS.
 
@@ -57,7 +57,7 @@ Hello there, i'm just an average person making random stuff if i have the time. 
 
 - Racing games, especially the Gran Turismo series (2 & 4).
 
-- VSRG games, although not so often for now. Mainly on [Etterna](https://etternaonline.com/) (but offline), but also played osu!mania and of course, FNF.
+- VSRG games, although not so often for now. Mainly on [Etterna](https://etternaonline.com/), but also played [osu!mania](https://osu.ppy.sh/users/27814400) and of course, [FNF](https://ninja-muffin24.itch.io/funkin).
   - Highest MSD i've beaten is (probably) 15-low 16s, but now i barely could beat 14s. So yes, i'm still a beginner.
 
 In short, i like playing video games. I just played too much genres of this particular subject.
