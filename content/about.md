@@ -59,6 +59,6 @@ Hello there, i'm just an average person making random stuff if i have the time. 
 
 - VSRG games, although not so often for now. Mainly on [Etterna](https://etternaonline.com/), but also played [osu!mania](https://osu.ppy.sh/users/27814400) and of course, [FNF](https://ninja-muffin24.itch.io/funkin).
   - Highest MSD i've beaten is (probably) 15-low 16s, but now i barely could beat 14s. So yes, i'm still a beginner.
-  - Also made some (mixed) skins for osu!mania, one of them is a [port of the krystal+](https://drive.google.com/file/d/1v7Np5dnZU5I7r6MFh7VgmkIwoLhnc1N0/) noteskin from Etterna. And the noteskin was made entirely (?) in mobile with [Photopea](https://www.photopea.com/) and a [pixel art editor](https://pixly.tavomaciel.com/) for Android.
+  - Also made some (mixed) skins for osu!mania, one of them is a [port of the krystal+](https://drive.google.com/file/d/1v7Np5dnZU5I7r6MFh7VgmkIwoLhnc1N0/) noteskin from Etterna. I made it entirely (?) in mobile with [Photopea](https://www.photopea.com/) and a [pixel art editor](https://pixly.tavomaciel.com/) for Android.
 
 In short, i like playing video games. I just played too much genres of this particular subject.
