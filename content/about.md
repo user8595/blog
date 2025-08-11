@@ -19,7 +19,6 @@ Hello there, i'm just an average person making random stuff if i have the time. 
 - Aspiring Graphic Designer
 
   - Inkscape
-  - [CorelDRAW](https://en.m.wikipedia.org/wiki/CorelDRAW)
   - Adobe Illustrator
   - Adobe Photoshop
   - Paint.NET
