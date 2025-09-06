@@ -40,7 +40,7 @@ Hello there, i'm just an average person making random stuff if i have the time. 
 
 - Tetris, especially the [TGM](https://en.m.wikipedia.org/wiki/Tetris:_The_Grand_Master) series. (S4 in TGM1, 2 in TGM2, S5 World in TGM3)
 
-  - For "modern" block stacking games, average speed is ~1.6-2.0 PPS, and record 40L is sub 60s (0:55 maybe), average is ~1:00-15, sorry i dont play tetr.io
+  - For "modern" block stacking games, average speed is ~1.6-2.0 PPS, and record 40L is sub 60s (0:55 maybe), average is ~1:00-15, [TETR.IO account](https://ch.tetr.io/u/eightyfivenine)
 
 - Shumps, but im still bad at them. (i could only play them if it's touch screen, controller/joystick i couldn't pass the first half ot the second level usually)
 
