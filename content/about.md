@@ -28,6 +28,8 @@ Hello there, i'm just an average person making random stuff if i have the time. 
 
   - Primarily using Neovim and VSCode as code editors.
 
+- Creating small games using [LÖVE2D](https://love2d.org).
+
 - Have a slight amount of experience with the CLI.
 
 - Creating topology "hell" in Blender
