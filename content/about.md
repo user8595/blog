@@ -26,6 +26,7 @@ Your average person, making stuff.
   - Aseprite (somewhat though.)
 
 - Experienced in HTML & CSS, somewhat on JS.
+  - Lua user & slight experience on Python
 
 - Creating games using [LÖVE2D](https://love2d.org).
 
