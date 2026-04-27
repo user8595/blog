@@ -48,4 +48,4 @@ The website will be hosted at `http://localhost:1313/`.
 >
 > so `<link>` tags in /public directory will refer to the `baseURL` in the config, not using `localhost:1313`.
 
-(dont know if this affects anything though)
+> Apparently you don't need to rebuild the page if you already setup an actions.
