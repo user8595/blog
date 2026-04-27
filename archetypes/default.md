@@ -4,7 +4,7 @@ draft: true
 title: {{ replace .File.ContentBaseName "-" " " | title }}
 tags: [""]
 cover:
-  image: /image.png
+  image: images/image.png
   caption: ""
 summary: ""
 ---

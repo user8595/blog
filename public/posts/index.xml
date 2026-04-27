@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on user859</title>
+    <title>Posts on user8595</title>
     <link>https://user8595.github.io/blog/posts/</link>
-    <description>Recent content in Posts on user859</description>
-    <generator>Hugo -- 0.149.0</generator>
+    <description>Recent content in Posts on user8595</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>user8595</copyright>
-    <lastBuildDate>Thu, 24 Jul 2025 04:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 09:59:41 +0800</lastBuildDate>
     <atom:link href="https://user8595.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Projects</title>
@@ -15,6 +15,13 @@
       <pubDate>Fri, 18 Apr 2025 14:07:10 +0000</pubDate>
       <guid>https://user8595.github.io/blog/posts/design-projects/</guid>
       <description>A list of my design projects, both 2D and 3D designs.</description>
+    </item>
+    <item>
+      <title>Something interesting</title>
+      <link>https://user8595.github.io/blog/posts/something-interesting/</link>
+      <pubDate>Mon, 27 Apr 2026 09:59:41 +0800</pubDate>
+      <guid>https://user8595.github.io/blog/posts/something-interesting/</guid>
+      <description>Not much to say about this though..</description>
     </item>
     <item>
       <title>Being aware of myself</title>

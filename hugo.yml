@@ -1,6 +1,6 @@
 baseURL: "https://user8595.github.io/blog/"
 languageCode: en-us
-title: user859
+title: user8595
 theme: PaperMod
 copyright: "© [user8595](https://github.com/user8595)"
 
@@ -14,7 +14,7 @@ pagination:
 
 params:
   env: production
-  title: user859
+  title: user8595
   description: "A digital space for my thoughts or maybe as a journal."
   keywords: [Blog, Design, Writing]
   author: user8595
@@ -41,7 +41,7 @@ params:
     disableHLJS: true
 
   label:
-    text: "user859"
+    text: "user8595"
     iconHeight: 35
 
   homeInfoParams:

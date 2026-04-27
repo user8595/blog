@@ -2,7 +2,7 @@ A basic blog website using [hugo](https://github.com/gohugoio/hugo) as framework
 
 ### Prerequisites
 
-- Hugo v0.147.1
+- Hugo v0.153.2
 - Git 2.49.0 (or latest)
 
 ### Cloning hugo-PaperMod (if it didn't work)
@@ -39,10 +39,13 @@ hugo server
 
 The website will be hosted at `http://localhost:1313/`.
 
-**NOTE**: To build website before deploying to the server, use
+> [!NOTE]
+> To build website before deploying to the server, use
+> 
+> ```bash
+> hugo
+> ```
+>
+> so `<link>` tags in /public directory will refer to the `baseURL` in the config, not using `localhost:1313`.
 
-```bash
-hugo
-```
-
-so `<link>` tags in /public directory will refer to the `baseURL` in the config, not using `localhost:1313`.
+(dont know if this affects anything though)
