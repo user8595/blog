@@ -6,7 +6,6 @@ tags: ["Design", "3D Modelling"]
 cover:
   image: images/design.png
 summary: "A list of my design projects, both 2D and 3D designs."
-weight: 5
 ---
 
 Here i'll post my design projects i made at my spare time if i could.
