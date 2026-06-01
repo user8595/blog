@@ -38,14 +38,15 @@ Your average person, making stuff.
 
 - Misspelling wirds
 
-- Tetris, especially the [TGM](https://en.m.wikipedia.org/wiki/Tetris:_The_Grand_Master) series. (S4/Lv700 in TGM1, 1/~Lv570 in TGM2, S8-S9/Lv800-999 World in TGM3)
-  - For "modern" block stacking games, average speed is ~1.6-2.4 PPS, and record 40L is almost sub 40s ([0:41.163](https://ch.tetr.io/u/eightyfivenine/40l)), average is ~.45-52s, [TETR.IO account](https://ch.tetr.io/u/eightyfivenine)
+- Tetris, especially the [TGM](https://en.m.wikipedia.org/wiki/Tetris:_The_Grand_Master) series. (S4/Lv700 in TGM1, 1/~Lv570 in TGM2, m4-m5 World in TGM3)
+  - For "modern" block stacking games, average speed is ~1.6-2.5 PPS, and record 40L is almost sub 40s ([0:41.163](https://ch.tetr.io/u/eightyfivenine/40l)), average is ~.45-52s, [TETR.IO account](https://ch.tetr.io/u/eightyfivenine)
 
 - Shumps, but im still bad at them. (i could only play them if it's touch screen, controller/joystick i couldn't pass the first half ot the second level usually)
   - R-Type series (beaten with cheats)
   - Einhander (same as above)
   - Darius series (with infinite continues)
   - [BHM](https://store.steampowered.com/app/2501550/Bullet_Hell_Monday_Finale/) Series (it's on mobile, go play it)
+  - I faintly remember beating BHM Black in the highest difficulty (Black-Heaven + True Ending), unfortunantly i lost the screenshot for the clear however.
   - Ray- Series (with cheats and continues)
   - Psyvariar: Revision (PS2), highest score i've got is 7901400, 4-A.
   - Maybe more, but i unfortunantly forgot about them.
