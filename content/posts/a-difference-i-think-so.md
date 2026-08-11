@@ -23,8 +23,10 @@ Despite all of this however, i've yet to learn how to write properly up to this 
 
 About those however, i might try to maintain them as much as i could, though by just a few weeks i'm going to enter college soon hovever (and it's not cs class lmao)
 
+With that being said however, i might try to showcase some projects/game "prototypes" occasionally in my [Bluesky profile](https://bsky.app/profile/takoislongboi.bsky.social) for now, assuming i'm _that_ active in other social media sites than Discord & Youtube haha.
+
 Still, i thank the people that actually supported me until this time though..
 
 ---
 
-Now that we're at the end, you should see this [kita spin👀👀](/blog/images/kita.gif)
+now that we're at the end, look at this [kita spin👀👀](/blog/images/kita.gif)
