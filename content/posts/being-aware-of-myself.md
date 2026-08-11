@@ -1,12 +1,16 @@
 ---
 date: 2025-07-24T04:50:36Z
-draft: false
+draft: true
 title: Being aware of myself
 tags: ["Thoughts"]
 cover:
   image: images/lamp.png
 summary: "Another random thought about my own self."
 ---
+
+<!-- seems like hiding this is a good idea then -->
+<!-- or not?? nvm -->
+<!-- too risky unfortunantly, let's hide this for now on.. -->
 
 Ever since i were a young child, i always asked myself:
 

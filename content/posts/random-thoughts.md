@@ -33,3 +33,15 @@ Maybe God only knows at this point. I hope someone could notice this venting jus
 Also, thanks for taking the time for reading this lengthy vent post, this was just some random thought i had just after waking up at 3 AM, and if you want to comment about what i wrote or your opinion about this post, feel free to write about it below.
 
 Only if i learn't about those since i was at a young age, i probably wont write this at all. But here we are.
+
+> Edit 11-08-2026:
+>
+> Rereading (ahem, again) this article after the changes i've did really makes me feel something.. guess how the tables have turned i think so.
+>
+> For the readers however, if you're still worried after reading this page though, i've changed alot since these were really just past intrusive thoughts that somehow "slipped" to this page (did i mention this in the article?). And with the fact that i really wrote this out of spite back then.. that makes sense i think.
+>
+> Most of these are really just some.. ahem, "hypocrisies" that's probably just a problem in my side, which is mostly just personal issues in the past of course.
+>
+> With how much things have improved currently for myself though, i'm probably a different person from how i was acting in the past.. which i surely thank for that to happen though however.
+>
+> (oh, i just realized i wrote an comment addressing this issue before haha, otoh i really should stop being insecure however though..)

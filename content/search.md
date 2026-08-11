@@ -1,5 +1,5 @@
 ---
 title: "Search"
-placeholder: "Search.."
+placeholder: "Search here.."
 layout: "search"
 ---
