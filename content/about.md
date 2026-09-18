@@ -38,8 +38,8 @@ Your average person, making stuff.
 
 - Misspelling wirds
 
-- Tetris, especially the [TGM](https://en.m.wikipedia.org/wiki/Tetris:_The_Grand_Master) series. (S4/Lv700 in TGM1, 1/~Lv570 in TGM2, m4-m5 World in TGM3)
-  - For "modern" block stacking games, average speed is ~1.6-2.5 PPS, and record 40L is almost sub 40s ([0:41.163](https://ch.tetr.io/u/eightyfivenine/40l)), average is ~.45-52s, [TETR.IO account](https://ch.tetr.io/u/eightyfivenine)
+- Tetris, especially the [TGM](https://en.m.wikipedia.org/wiki/Tetris:_The_Grand_Master) series. (S6/Lv800 in TGM1, S1/Lv.700 in TGM2, m8 World/S11 Shirase in TGM3), [TAP Account](https://theabsolute.plus/player/eightyfivenine)
+  - For "modern" block stacking games, average speed is ~1.9-2.5 PPS, and record 40L is almost sub 35s ([0:36.432](https://ch.tetr.io/u/eightyfivenine/40l)), average is ~.38-42s, [TETR.IO account](https://ch.tetr.io/u/eightyfivenine)
 
 - Shumps, but im still bad at them. (i could only play them if it's touch screen, controller/joystick i couldn't pass the first half ot the second level usually)
   - R-Type series (beaten with cheats)
