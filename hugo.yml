@@ -15,7 +15,7 @@ pagination:
 params:
   env: production
   title: user8595
-  description: "A digital space for my thoughts or maybe as a journal."
+  description: "A digital space for my thoughts and a journal."
   keywords: [Blog, Design, Writing]
   author: user8595
   DateFormat: "Jan 2, 2006"
@@ -46,11 +46,11 @@ params:
 
   homeInfoParams:
     Title: "eightyfivenine"
-    Content: A digital space for my thoughts or maybe as a journal.
+    Content: A digital space for my thoughts and a journal.
 
   socialIcons:
     - name: "x"
-      url: "https://x.com/takoislongboi"
+      url: "https://x.com/takoissmolboi"
     - name: "youtube"
       url: "https://youtube.com/@user8595istaken"
     - name: "github"

@@ -6,6 +6,7 @@ tags: ["Design", "3D Modelling"]
 cover:
   image: images/design.png
 summary: "A list of my design projects, both 2D and 3D designs."
+weight: 1
 ---
 
 Here i'll post my design projects i made at my spare time if i could.
@@ -15,6 +16,8 @@ This could count as a portfolio, as usually they also show projects by the perso
 I'll probably update this if i made a new design project and i feel to post it here.
 
 (Update 22-7-2025: This page won't be updated as often anymore. Consider checking my _questionable_ [Pinterest account](https://pinterest.com/user8595_/). Maybe this might change in the future.)
+
+(Update 08-11-2026: I might consider reusing this article sometime.)
 
 ## 2D Designs
 
@@ -75,3 +78,7 @@ An short render of a gaming keyboard, following [this tutorial.](https://youtu.b
 The difference from the render i made from the video is that i did not use the Cycles renderer, hence why there's no glow effect in the keyboard. I haven't tried to render it on cycles yet, so i can't tell if the glow effect worked. And also the keyboard layout being small.
 
 (Despite the video, i did not render this on a PC.)
+
+---
+
+WIP.. stay tuned :3

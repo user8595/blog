@@ -19,6 +19,8 @@ Or is [it?](https://www.example.com)
 
 It was a test page all along, so please do something else instead, but anyways thank you for reading this because you spent your valuable time just for this line of text.
 
+(edit 08/11/2026: dear god i was so negative back then :sob::sob:)
+
 Anyways, here's a code sample:
 
 ```js
