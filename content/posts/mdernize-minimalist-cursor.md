@@ -1,4 +1,3 @@
-<!--rewrite soon(tm)-->
 ---
 date: 2025-05-06T15:16:50Z
 draft: true
@@ -9,6 +8,7 @@ cover:
   caption: "A minimalist cursor with a focus of usability."
 summary: "My latest cursor theme, explained in this article."
 ---
+<!--rewrite soon(tm)-->
 
 ## Intro
 
