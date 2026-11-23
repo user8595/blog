@@ -1,6 +1,6 @@
 ---
 date: 2025-03-23T09:54:46Z
-draft: false
+draft: true
 title: Being new at Git
 tags: ["Random"]
 summary: "A post i made when i was first learning Git."

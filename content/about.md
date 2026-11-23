@@ -63,4 +63,4 @@ Your average person, making stuff.
 
 In short, i like playing video games. I just played too much genres of this particular subject.
 
-(p.s. please try to not take my old articles seriously since they were written before i changed alot recently ;-; i'm much more friendlier than how i was in the past now, i should try to archive them sometime though or a rewrite..)
+(p.s. please try to not take my old articles seriously since they were written before i changed alot recently ;-; i'm much more friendlier than how i was in the past now, i should try to archive them sometime though or plan a rewrite..)

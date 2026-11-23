@@ -1,6 +1,7 @@
+<!--rewrite soon(tm)-->
 ---
 date: 2025-05-03T03:55:57Z
-draft: false
+draft: true
 title: Minimalistic Cursor - A Cursor Theme
 tags: ["Customization"]
 cover:

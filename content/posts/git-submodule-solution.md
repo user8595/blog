@@ -1,6 +1,6 @@
 ---
 date: 2025-03-28T16:50:28Z
-draft: false
+draft: true
 title: Git submodule error solution
 tags: ["Git"]
 summary: "A solution for Hugo failing to compile the website due to a missing Git submodule."
@@ -8,6 +8,7 @@ summary: "A solution for Hugo failing to compile the website due to a missing Gi
 
 While i was migrating this site to papermod from hugo-paper, i noticed a weird problem while github was building my site, failing to do so because of a missing submodule.
 
+<!--at least i was honest-->
 This problem, yet with such simple solution (with the help of ai for me), made me waste so much time, from removing the themes folder and even as far as removing the .git folder itself. at last i knew how to pull the repository from GitHub after i did this.
 
 ### What's the solution?

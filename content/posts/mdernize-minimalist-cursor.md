@@ -1,6 +1,7 @@
+<!--rewrite soon(tm)-->
 ---
 date: 2025-05-06T15:16:50Z
-draft: false
+draft: true
 title: mdernize - Minimalist Cursor
 tags: ["Customization"]
 cover:

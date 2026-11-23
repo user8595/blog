@@ -1,6 +1,6 @@
 ---
 date: 2025-04-29T20:22:57Z
-draft: false
+draft: true
 title: Random thought i had at 3AM
 tags: ["Thoughts"]
 summary: "Just a random vent i had after waking up in the middle of the night."

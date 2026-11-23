@@ -1,11 +1,45 @@
+:root {
+  --theme: rgb(230, 233, 239);
+  --entry: rgb(230, 233, 239);
+  --primary: rgb(76, 79, 105);
+  --secondary: rgb(108, 111, 133);
+  --tertiary: rgb(204, 208, 218);
+  --content: rgb(76, 79, 105);
+  --code-block-bg: rgb(17, 17, 27);
+  --code-bg: rgb(239, 241, 245);
+  --border: rgb(204, 208, 218);
+  --footer: rgb(220, 224, 232);
+  --logo-outline: rgb(204, 208, 218);
+}
+
+:root[data-theme="dark"] {
+  --theme: rgb(24, 24, 37);
+  --entry: rgb(30, 30, 46);
+  --primary: rgb(205, 214, 244);
+  --secondary: rgb(166, 173, 200);
+  --tertiary: rgb(49, 50, 68);
+  --content: rgb(205, 214, 244);
+  --code-block-bg: rgb(17, 17, 27);
+  --code-bg: rgb(30, 30, 46);
+  --border: rgb(49, 50, 68);
+  --footer: rgb(17, 17, 27);
+  --logo-outline: rgb(49, 50, 68);
+  color-scheme: dark;
+}
+
+* {
+  transition: 0.4s color, 0.4s background-color;
+}
+
 @font-face {
   font-family: "W95FA";
   font-display: swap;
   src: url("W95FA.ttf") format("truetype"),
     url("W95FA.otf") format("opentype"),
-    url("w95fa.woff") format("woff"),
-    url("w95fa.woff2") format("woff2");
+    url("W95FA.woff") format("woff"),
+    url("W95FA.woff2") format("woff2");
 }
+
 
 h1,
 h2,
@@ -27,6 +61,22 @@ h6 {
   font-weight: 500;
 }
 
+.logo>a::before {
+  content: "";
+  position: fixed;
+  margin-top: 34px;
+  width: 89px;
+  height: 3.5px;
+  background-color: var(--logo-outline);
+  /* background:  linear-gradient(90deg,rgba(49, 50, 68, 1) 0%, rgba(243, 139, 168, 1) 0%, rgba(243, 139, 168, 1) 11%, rgba(49, 50, 68, 1) 11%); */
+  transition: 0.3s opacity;
+  opacity: 0;
+}
+
+.logo>a:hover::before {
+  opacity: 1;
+}
+
 .entry-header h1 {
   font-family: "W95FA", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 500;
@@ -41,6 +91,17 @@ h6 {
 .post-title {
   font-family: "W95FA", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 600;
+}
+
+.post-entry {
+  border: none;
+}
+
+.footer {
+  margin: 0;
+  max-width: none;
+  width: auto;
+  background-color: var(--footer);
 }
 
 .chroma {
